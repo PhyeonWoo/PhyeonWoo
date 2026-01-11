@@ -1,4 +1,4 @@
-<div align= "center"> 
+<!-- <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 프론트엔드 개발자를 꿈꾸고있는 박현우입니다! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 프론트엔드 개발자 박현우입니다. </div> 
     </div>
@@ -21,4 +21,4 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    
+     -->
