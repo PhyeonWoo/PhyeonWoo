@@ -43,8 +43,10 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
     <div align="center">
-        <a href="https://your-notion-link.com"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/IT-1c63f98d285080e4a889eb8181f92624?source=copy_link"> </a>
-        <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:simuoo96@gmail.com"> </a>
+        <a href="https://www.notion.so/IT-1c63f98d285080e4a889eb8181f92624?source=copy_link"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> </a>
+        <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com"> </a>
         <a href="https://github.com/PhyeonWoo"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> </a>
+    </div> <br>
+</div>
     </div> <br>
 </div>
