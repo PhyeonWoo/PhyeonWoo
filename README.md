@@ -13,12 +13,10 @@
         <br/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
-        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white">
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
         <br/>
         <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </div>
@@ -37,15 +35,16 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 GitHub Stats </h2> <br>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=PhyeonWoo&show_icons=true&theme=default" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhyeonWoo&layout=compact&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhyeonWoo&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhyeonWoo&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhyeonWoo&theme=default" />
     </div>
 </div>
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>
     <div align="center">
-        <a href="https://your-notion-link.com"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="> </a>
-        <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:your-email@gmail.com"> </a>
+        <a href="https://your-notion-link.com"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/IT-1c63f98d285080e4a889eb8181f92624?source=copy_link"> </a>
+        <a href="mailto:your-email@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:simuoo96@gmail.com"> </a>
         <a href="https://github.com/PhyeonWoo"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"> </a>
     </div> <br>
 </div>
