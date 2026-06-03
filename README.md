@@ -29,7 +29,7 @@
         <a href="https://github.com/PhyeonWoo/Quest"> <img src="https://img.shields.io/badge/RecallQuest-4479A1?style=for-the-badge&logo=Spring&logoColor=white"> </a>
     </div> <br>
     <div align="center">
-        <sub>SaaS 프로젝트 관리 · 팀 기반 이커머스 · 치매 예방 퀴즈 앱</sub>
+        <sub>SaaS 프로젝트 관리 · 자사몰 프로젝트 · 치매 예방 퀴즈 앱</sub>
     </div>
 </div>
 <div align="center">
